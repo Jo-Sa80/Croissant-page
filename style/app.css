@@ -4,3 +4,20 @@ body {
 h1 {
   text-align: center;
 }
+a {
+  text-align: center;
+  padding-right: 20px;
+}
+p {
+  text-align: center;
+}
+img {
+  padding-bottom: 20px;
+  display: block;
+  margin: 0 auto;
+  max-width: 500px;
+}
+.site-links {
+  display: flex;
+  justify-content: center;
+}
